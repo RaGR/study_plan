@@ -3,7 +3,7 @@ from telebot import types
 from functions.funcs import contact_check, is_in_channel, read_data_uniq
 from uies.ui import contact_ui, channel_joined_ui
 
-TOKEN = "6932315200:AAGz-7mqMYgj238aw_tkgyEj2M-rtzbKyQk"
+TOKEN = "TOKEN IS HIDDEN BY THE AUTHOR!!!"
 
 # bot username : test313777bot
 id_channel_zabansara = "@zabansarareyinstitute"
