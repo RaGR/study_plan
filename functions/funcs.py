@@ -4,8 +4,8 @@ import pytz
 import json
 from random import randint
 
-path_data = "/home/mahbod/Desktop/study_plan/database.json"
-path_student_id = "/home/mahbod/Desktop/study_plan/uniq_id/student_id.txt"
+path_data = "/home/mahbod/Desktop/study_plan/database.json" #should be systematic file path -> use os module
+path_student_id = "/home/mahbod/Desktop/study_plan/uniq_id/student_id.txt" #should be systematic file path -> use os module
 
 user_data_dict = {
     "uniq_id": None,
